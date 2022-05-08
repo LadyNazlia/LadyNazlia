@@ -57,6 +57,6 @@ Check out [my website](https://amanda-faulkenberry.netlify.app/) to get in touch
 
 <h1 align="center">GitHub Stats</h1>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=LadyNazlia&show_icons=true&locale=en" align="center" width="40%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LadyNazlia" align="center" width="40%"/>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=LadyNazlia&theme=dark&show_icons=true" align="center" width="40%"/>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=LadyNazlia&theme=dark-smoky&date_format=M%20j%5B%2C%20Y%5D" align="center" width="40%"/>
 </div> 
