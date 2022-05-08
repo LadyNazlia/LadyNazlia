@@ -1,3 +1,3 @@
-<img src="#VR #EdTech(2).png" width="100%">
+<img src="github-header.png" width="100%">
 
 
