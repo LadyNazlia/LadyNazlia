@@ -4,7 +4,7 @@
   <a href="https://amanda-faulkenberry.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
-  <a href="www.linkedin.com/in/amanda-faulkenberry" target="_blank">
+  <a href="https://www.linkedin.com/in/amanda-faulkenberry/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
   <a href="https://twitter.com/A_L_F_Writes" target="_blank">
@@ -41,7 +41,7 @@ Check out [my website](https://amanda-faulkenberry.netlify.app/) to get in touch
 <a href="https://amanda-faulkenberry.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
-  <a href="www.linkedin.com/in/amanda-faulkenberry" target="_blank">
+  <a href="https://www.linkedin.com/in/amanda-faulkenberry/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
   <a href="https://twitter.com/A_L_F_Writes" target="_blank">
@@ -57,6 +57,6 @@ Check out [my website](https://amanda-faulkenberry.netlify.app/) to get in touch
 
 <h1 align="center">GitHub Stats</h1>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ryangibbons94&show_icons=true&locale=en" align="center" width="40%"/>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=LadyNazlia&show_icons=true&locale=en" align="center" width="40%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=LadyNazlia" align="center" width="40%"/>
 </div> 
