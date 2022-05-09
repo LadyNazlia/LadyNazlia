@@ -38,8 +38,11 @@ Check out [my website](https://amanda-faulkenberry.netlify.app/) to get in touch
 
 <h1 align="center">Non-Technical Fun Facts</h1>
 <ol>
-    <li>I've published 3 books under the name A.L.Faulkenberry (Immortality: The beginning of the end, For the love of sisters, Lessons from within)</li>
-    <li>I've studied Eskrima Pangolisi for about 5 years and I studied TaeKwonDo and TaiChi for about 2 years</li>
+    <li>I've published 3 books under the name A.L.Faulkenberry (Immortality: The beginning of the end, For the love of sisters, Lessons from within).</li>
+    <li>I've studied Eskrima Pangolisi for about 5 years and I studied TaeKwonDo and TaiChi for about 2 years.</li>
+    <li>I lived in China for 8 years.</li>
+    <li>Coffee, cats, and chocolate are 3 of my favorite things!</li>
+    <li>I spent 8 years teaching before becoming a software engineer.</li>
 </ol>
 
 <h1 align="center">GitHub Stats</h1>
