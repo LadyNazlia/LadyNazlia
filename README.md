@@ -1,22 +1,5 @@
 <img src="github-header.png" width="100%">
 
-<p align="center">
-  <a href="https://amanda-faulkenberry.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/amanda-faulkenberry/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
-  </a>
-  <a href="https://twitter.com/A_L_F_Writes" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
-  </a>
-  <a href="https://angel.co/u/amanda-faulkenberry" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
-  </a>
-  <a href="https://drive.google.com/file/d/1qHd2Ikvzlh8X6vLyzXTjUgJjU0zogorC/view?usp=sharing" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
-  </a>
-</p>
 I'm a Teacher turned Techie. After 8 years in the classroom teaching English and computer science among other subjects, I realized how much room there is for improvements and advancements in technology and programs that are available for teachers and students. Through the frustrations of dealing with technical issues with trying to teach, I developed a passion for fixing those problems and helping teachers. After getting involved in VR at the last school I worked at, I realized what I could do with VR in my classroom with programs that do not yet exist. That was when I realized I wanted to push towards learning software engineering with the ultimate goal for working at an EdTech Company making VR programs for teachers, students, and schools.
 
 Check out [my website](https://amanda-faulkenberry.netlify.app/) to get in touch!
