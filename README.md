@@ -1,5 +1,6 @@
 <img src="github-header.png" width="100%">
 
+<h1 align="center">Intro</h1>
 I'm a Teacher turned Techie. After 8 years in the classroom teaching English and computer science among other subjects, I realized how much room there is for improvements and advancements in technology and programs that are available for teachers and students. Through the frustrations of dealing with technical issues with trying to teach, I developed a passion for fixing those problems and helping teachers. After getting involved in VR at the last school I worked at, I realized what I could do with VR in my classroom with programs that do not yet exist. That was when I realized I wanted to push towards learning software engineering with the ultimate goal for working at an EdTech Company making VR programs for teachers, students, and schools.
 
 Check out [my website](https://amanda-faulkenberry.netlify.app/) to get in touch!
