@@ -36,6 +36,12 @@ Check out [my website](https://amanda-faulkenberry.netlify.app/) to get in touch
   </a>
 </p>
 
+<h1 align="center">Non-Technical Fun Facts</h1>
+<ol>
+    <li>I've published 3 books under the name A.L.Faulkenberry (Immortality: The beginning of the end, For the love of sisters, Lessons from within)</li>
+    <li>I've studied Eskrima Pangolisi for about 5 years and I studied TaeKwonDo and TaiChi for about 2 years</li>
+</ol>
+
 <h1 align="center">GitHub Stats</h1>
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=LadyNazlia&theme=dark&show_icons=true" align="center" width="40%"/>
