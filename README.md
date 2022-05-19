@@ -50,3 +50,8 @@ Check out [my website](https://amanda-faulkenberry.netlify.app/) to get in touch
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=LadyNazlia&theme=dark&show_icons=true" align="center" width="40%"/>
 <img src="http://github-readme-streak-stats.herokuapp.com?user=LadyNazlia&theme=dark-smoky&date_format=M%20j%5B%2C%20Y%5D" align="center" width="40%"/>
 </div> 
+
+<div align="center">
+    <p align="center">If you'd like to see some of my projects in action, check out my portfolio for a few highlights!</p>
+    <img src="frame.png" align="center" width="50%">
+</div>
