@@ -52,8 +52,8 @@ Check out [my website](https://amanda-faulkenberry.netlify.app/) to get in touch
 </div> 
 
 <h1 align="center">Check Out My Portfolio</h1>
-<br>
 <div align="center">
     <p align="center">If you'd like to see some of my projects in action, check out my portfolio for a few highlights!</p>
+    <br>
     <img src="frame.png" align="center" width="30%">
 </div>
