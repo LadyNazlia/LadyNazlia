@@ -45,12 +45,6 @@ Check out [my website](https://amanda-faulkenberry.netlify.app/) to get in touch
     <li>I spent 8 years teaching before becoming a software engineer.</li>
 </ol>
 
-<h1 align="center">GitHub Stats</h1>
-
-<!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=LadyNazlia&theme=dark&show_icons=true" align="center" width="80%"/> -->
-<img src="http://github-readme-streak-stats.herokuapp.com?user=LadyNazlia&theme=dark-smoky&date_format=M%20j%5B%2C%20Y%5D" align="center" width="90%"/>
-</div> 
-
 <h1 align="center">Check Out My Portfolio</h1>
 <div align="center">
     <p align="center">If you'd like to see some of my projects in action, check out my portfolio for a few highlights!</p>
